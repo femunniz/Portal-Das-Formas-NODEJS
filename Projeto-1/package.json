@@ -1,0 +1,14 @@
+{
+  "name": "projeto-1",
+  "version": "1.0.0",
+  "description": "\"projeto simples\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "\"Felipe Muniz\"",
+  "license": "ISC",
+  "dependencies": {
+    "touch": "^3.1.0"
+  }
+}
